@@ -1,4 +1,6 @@
 ### Hi there 👋
+#### Swiftの勉強をしています🌱
+
 
 <!--
 **KyusokLee/KyusokLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
