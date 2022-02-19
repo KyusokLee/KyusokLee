@@ -2,6 +2,10 @@
 #### Kyulee's の勉強日誌へようこそ！
 #### Swiftの勉強をしています🌱
 
+- 🕰 in Tokyo🇯🇵 From 🇰🇷 
+- 📚 TMU 
+- 📝 iOS Programming
+
 
 <!--
 **KyusokLee/KyusokLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
