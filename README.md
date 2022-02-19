@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there ~ 👋
 #### Kyulee's の勉強日誌へようこそ！
-Swiftの勉強をしています🌱
+##### Swiftの勉強をしています🌱
 
 - 🕰 in Tokyo🇯🇵 From 🇰🇷 
 - 📚 TMU 
