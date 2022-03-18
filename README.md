@@ -3,7 +3,6 @@
 #### Swiftの勉強をしています🌱
 
 - 🕰 in Tokyo🇯🇵 From 🇰🇷 
-- 📚 TMU 
 - 📝 iOS Programming
 
 
