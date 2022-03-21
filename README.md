@@ -3,7 +3,7 @@
 #### Swiftの勉強をしています🌱
 
 - 🕰 in Tokyo🇯🇵 From 🇰🇷 
-- 📝 iOS Programming 🖥
+- 📝 iOS Programming 💻
 
 
 <!--
