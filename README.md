@@ -1,5 +1,5 @@
 ### Hi there ~ 👋
-#### Kyulee's の勉強日誌へようこそ！
+#### Kyulee's 勉強日誌へようこそ！
 #### Swiftの勉強をしています🌱
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
