@@ -2,7 +2,7 @@
 #### Kyulee's の勉強日誌へようこそ！
 #### Swiftの勉強をしています🌱
 
-- 🕰 in Tokyo🇯🇵 From 🇰🇷 
+- 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
 - 📝 iOS Programming 💻
 
 
