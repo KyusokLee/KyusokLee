@@ -3,7 +3,9 @@
 #### Swiftの勉強をしています🌱
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
-- 📝 iOS Programming 📚
+- 📝 iOS Programming の勉強, Swiftを用いてアルゴリズム問題に取り組んでいます。　📚
+- 🌱 少なからず、1日1問を解き、コミットすることを目指しています
+- 🛫 開発の勉強 Start ...!
 
 
 <!--
