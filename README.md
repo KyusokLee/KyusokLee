@@ -3,7 +3,7 @@
 #### Swiftの勉強をしています🌱
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
-- 📝 iOS Programming, アルゴリズム問題にチャレンジ　📚
+- 📝 iOS Programming, アルゴリズム問題にチャレンジ中　📚
 - 🌱 1日1問以上のアルゴリズム問題を解き、コミットすることを目指しています
 - 🛫 開発勉強　Start📮　
 
