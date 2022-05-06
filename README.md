@@ -4,7 +4,7 @@
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
 - 📝 iOS Programming, Algorithm Problems (Swift)　🚴‍♂️
-- 🌱 Daily Goal: 1日1問以上のアルゴリズム問題を解き、コミット ~📮
+- 🌱 Daily Goal: 1日1問以上のアルゴリズム問題を解き、コミット📮
 - 🛫 開発勉強中 📚　
 
 
