@@ -3,9 +3,9 @@
 #### Swiftの勉強をしています🌱
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
-- 📝 iOS Programming, Algorithm Problems (Swift)　🚴‍♂️
+- 📝 iOS Programming, Solve Algorithm Problems (Swift)　🚴‍♂️
 - 🌱 Daily Goal: 1日1問以上のアルゴリズム問題を解き、コミット📮
-- 🛫 開発勉強中 📚　
+- 🛫 開発勉強中 📚
 
 
 <!--
