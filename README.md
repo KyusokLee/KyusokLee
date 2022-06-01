@@ -1,6 +1,6 @@
 ### Welcome to Kyulee's Page 👋
 #### Kyulee's 勉強日誌へようこそ！
-#### Swiftの勉強をしています🌱
+#### Swift/iOS 開発🌱
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
 - 📝 iOS Programming, Solve Algorithm Problems (Swift)　🚴‍♂️
