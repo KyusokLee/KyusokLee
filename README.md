@@ -1,5 +1,5 @@
 ### Welcome to Kyulee's Page 👋
-#### Kyulee's 勉強日誌へようこそ！
+#### 新しい知識の習得過程を記録した勉強日誌
 #### Swift/iOS 開発🌱
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
