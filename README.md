@@ -4,7 +4,7 @@
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
 - 📝 iOS Programming, Solve Algorithm Problems (Swift)　🚴‍♂️
-- 🌱 Daily Goal: 1日1問以上のアルゴリズム問題を解き、コミット 📮
+- 🌱 Daily Goal: 1日1コミットすることで、その日に学んだ内容を記録し、モチベーションを高める📮
 - 🛫 開発勉強中 📚
 - 🖥 Currently Learning: UIKit(Main) 📚
 - 🧗‍♂️ Have started Team Project! 
