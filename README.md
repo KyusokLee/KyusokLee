@@ -6,7 +6,7 @@
 - 📝 iOS Programming, Solve Algorithm Problems (Swift)　🚴‍♂️
 - 🌱 Daily Goal: 1日1コミットすることで、その日に学んだ内容を記録し、モチベーションを高める📮
 - 🛫 開発勉強中 📚
-- 🖥 Currently Learning: UIKit(Main) 📚
+- 🖥 Currently Learning: UIKit(Main), Python (ML), JavaScript(React) 📚
 - 🧗‍♂️ Have started Team Project! 
 
 
