@@ -3,11 +3,10 @@
 #### Swift/iOS 開発🌱
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
-- 📝 iOS Programming, Solve Algorithm Problems (Swift)　🚴‍♂️
-- 🌱 Daily Goal: 1日1コミット📮
+- 🌱 iOS Programming ~ 🚴‍♂️
 - 🛫 開発勉強中 📚
-- 🖥 Currently Learning: UIKit(Main), Python (ML), JavaScript(React) 📚
-- 🧗‍♂️ Have started Team Project! 
+- 🖥 Currently Learning: UIKit(Main), JavaScript(React) 📚
+- 🧗‍♂️ Have started Team Project
 
 
 <!--
