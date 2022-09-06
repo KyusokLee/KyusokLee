@@ -6,7 +6,7 @@
 - 🌱 iOS Programming 🚴‍♂️
 - 🛫 開発勉強中 📚
 - 🖥 Currently Learning: UIKit(Main), JavaScript📚
-- 🧗‍♂️ Have started Team Project
+- 🧗‍♂️ Focusing on Team Project Currently
 
 
 <!--
