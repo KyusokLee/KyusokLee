@@ -5,7 +5,7 @@
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
 - 🌱 iOS Programming 🚴‍♂️
 - 🛫 開発勉強中 📚
-- 🖥 Currently Learning: UIKit(Main), JavaScript📚
+- 🖥 Currently: UIKit(Main)
 - 🧗‍♂️ Focusing on Toy Project Currently 🚴‍♂
 
 
