@@ -6,7 +6,7 @@
 - 🌱 iOS Programming 🚴‍♂️
 - 🛫 開発勉強中 📚
 - 🖥 Currently: UIKit(Main)
-- 🧗‍♂️ Focusing on Toy Project Currently 🚴‍♂
+- 🧗‍♂️ Focusing on Private Project Currently 🚴‍♂
 
 
 <!--
