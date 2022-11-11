@@ -6,7 +6,7 @@
 - 🌱 iOS Programming 🚴‍♂️
 - 🖥 Currently: iOS UIKit(Main)
 - 📚 Area of Interests: SwiftUI, Flutter, JavaScript, Go
-- 🧗‍♂️ Focusing on Private Project Currently 🚴‍♂
+- 🧗‍♂️ Focusing on Private Toy Project Currently 🚴‍♂
 
 
 <!--
