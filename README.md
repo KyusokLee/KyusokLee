@@ -1,10 +1,9 @@
 ### Welcome to Kyulee's Page 👋
 #### 新しい知識の習得過程を記録した勉強日誌
-#### Swift/iOS 開発🌱
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
 - 🌱 iOS Programming 🚴‍♂️
-- 🖥 Currently: iOS UIKit(Main)
+- 🖥 Currently: iOS UIKit(Swift)
 - 📚 Area of Interests: SwiftUI, Flutter, JavaScript, Go
 - 🧗‍♂️ Focusing on Private Toy Project Currently 🚴‍♂
 
