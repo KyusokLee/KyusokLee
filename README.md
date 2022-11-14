@@ -4,7 +4,7 @@
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
 - 🌱 iOS Programming 🚴‍♂️
 - 🖥 Currently: iOS UIKit(Swift)
-- 📚 Area of Interests: SwiftUI, Flutter, JavaScript, Go
+- 📚 Area of Interests: SwiftUI, Flutter, JavaScript
 - 🧗‍♂️ Focusing on Private Toy Project Currently 🚴‍♂
 
 
