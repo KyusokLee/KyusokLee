@@ -3,7 +3,7 @@
 
 - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
 - 🌱 iOS Programming 🚴‍♂️
-- 🖥 Currently: iOS Develop(UIKit)
+- 🖥 Currently: iOS Mobile Develop(UIKit)
 - 📚 Area of Interests: SwiftUI, Flutter, JavaScript(React)
 - 🧗‍♂️ Focusing on Private Toy Project Currently 🚴‍♂
 
