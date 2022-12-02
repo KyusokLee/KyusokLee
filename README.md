@@ -25,8 +25,11 @@
 
 <hr />
 <div>
-  <img align="right" img width=400 src="https://github-profile-trophy.vercel.app/?username=KyusokLee&column=5&theme=tokyonight"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=KyusokLee&card_width=400&show_icons=true&theme=cobalt"/>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KyusokLee&count_private=true&show_icons=true&theme=tokyonight"/>
+</div>
+
+<div>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=KyusokLee&column=7&theme=tokyonight"/>
 </div>
 
 <!--
