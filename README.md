@@ -7,6 +7,8 @@
 - 📚 Area of Interests: Python, SwiftUI, Flutter, JavaScript
 - 🧗‍♂️ Focusing on Private Toy Project Currently 🚴‍♂
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KyusokLee&show_icons=true&theme=radical)
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=realkyuman26)](https://solved.ac/realkyuman26)
 
