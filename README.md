@@ -25,7 +25,7 @@
 
 <hr />
 <div>
-  <img align="right" img width=500 src="https://github-profile-trophy.vercel.app/?username=KyusokLee&column=5&theme=tokyonight"/>
+  <img align="right" img width=400 src="https://github-profile-trophy.vercel.app/?username=KyusokLee&column=5&theme=tokyonight"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KyusokLee&card_width=400&show_icons=true&theme=cobalt"/>
 </div>
 
