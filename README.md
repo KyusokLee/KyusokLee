@@ -7,6 +7,9 @@
 - 📚 Area of Interests: Python, SwiftUI, Flutter, JavaScript
 - 🧗‍♂️ Focusing on Private Toy Project Currently 🚴‍♂
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=realkyuman26)](https://solved.ac/realkyuman26)
+
 
 <!--
 **KyusokLee/KyusokLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
