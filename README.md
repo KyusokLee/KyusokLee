@@ -19,10 +19,14 @@
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=Raspberry Pi&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white">
   <br><br><br>
+</div>
+
+<hr />
+<div>
+  <img align="right" img width=550 src="https://github-profile-trophy.vercel.app/?username=KyusokLee&theme=tokyonight"/>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=KyusokLee&card_width=400&show_icons=true&theme=cobalt"/>
-  <img align="left" img width=1000 src="https://github-profile-trophy.vercel.app/?username=KyusokLee&column=10&theme=tokyonight"/>
 </div>
 
 <!--
