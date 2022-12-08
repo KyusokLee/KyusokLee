@@ -3,7 +3,7 @@
 
 ## Welcome to Kyulee's Page 👋
   - 📝 新しい知識の習得過程を記録した勉強日誌
-  - 🕰 in Tokyo🇯🇵 From Seoul🇰🇷 
+  - 🕰 In Tokyo🇯🇵 From Seoul🇰🇷 
   - 🌱 iOS Develop(UIKit) 🚴‍♂️
   - 📚 Area of Interests: Python, SwiftUI, Flutter, JavaScript
   - 🧗‍♂️ Focusing on Private Toy Project Currently 💻
