@@ -6,7 +6,7 @@
   - 🕰 In Tokyo🇯🇵 From Seoul🇰🇷 
   - 🌱 iOS Develop(UIKit) 🚴‍♂️
   - 📚 Area Of Interests: Python, SwiftUI, Flutter, JavaScript
-  - 🧗‍♂️ Focusing on Private Toy Project Currently 💻🌱
+  - 🧗‍♂️ Focusing On Private Toy Project Currently 💻🌱
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyusokLee&layout=compact&theme=dracula&langs_count=8"/>
   <br>
 </div>
