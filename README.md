@@ -5,8 +5,8 @@
   - 📝 新しい知識の習得過程を記録した勉強日誌
   - 🕰 In Tokyo🇯🇵 from Seoul🇰🇷 
   - 🌱 iOS Develop(UIKit) 🚴‍♂️
-  - 📚 Area Of Interests: Python, SwiftUI, Flutter, JavaScript
-  - 🧗‍♂️ Focusing On Private Toy Project Currently 💻🌱
+  - 📚 Area of interests: Python, SwiftUI, Flutter, JavaScript
+  - 🧗‍♂️ Focusing on private and team project currently 💻🌱
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyusokLee&layout=compact&theme=dracula&langs_count=8"/>
   <br>
 </div>
