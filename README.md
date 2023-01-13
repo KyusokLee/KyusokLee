@@ -7,7 +7,7 @@
   - 🌱 iOS Develop(UIKit) 🚴‍♂️
   - 📚 Area of interests: Python, SwiftUI, Flutter, JavaScript
   - 🧗‍♂️ Focusing on private and team project currently 💻🌱
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyusokLee&layout=compact&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyusoklee&layout=compact&theme=dracula&langs_count=8"/>
   <br>
 </div>
 
