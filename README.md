@@ -7,7 +7,7 @@
   - 🌱 iOS Develop(UIKit) 🚴‍♂️
   - 📚 Area of interests: Python, SwiftUI, Flutter, JavaScript
   - 🧗‍♂️ Focusing on private and team project currently 💻🌱
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyusokLee&layout=compact&theme=dracula&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyusoklee&layout=compact&theme=dracula&langs_count=8"/>
   <br>
 </div>
 
@@ -25,11 +25,11 @@
 
 <hr />
 <div>
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=KyusokLee&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kyusoklee&count_private=true&show_icons=true&theme=tokyonight"/>
 </div>
 
 <div>
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=KyusokLee&column=7&theme=tokyonight"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kyusoklee&column=7&theme=tokyonight"/>
 </div>
 
 <!--
