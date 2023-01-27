@@ -6,7 +6,7 @@
   - 🕰 In Tokyo🇯🇵 from Seoul🇰🇷 
   - 🌱 iOS Develop(UIKit) 🚴‍♂️
   - 📚 Area of interests: Python, SwiftUI, Flutter, JavaScript
-  - 🧗‍♂️ Focusing on private and team project currently 💻🌱
+  - 🧗‍♂️ Focusing on developing currently 💻🌱
   <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyusoklee&layout=compact&theme=dracula&langs_count=8"/>
   <br>
 </div>
