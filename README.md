@@ -2,7 +2,7 @@
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=realkyuman26"/>
 
 ## Welcome to Kyulee's page 👋
-  - 📝 新しい知識の習得過程を記録した勉強日誌
+  - 📝 新しい知識の習得過程を記録する勉強日誌
   - 🕰 In Tokyo🇯🇵 from Seoul🇰🇷 
   - 🌱 iOS Develop(UIKit) 🚴‍♂️
   - 📚 Area of interests: Python, SwiftUI, Flutter, JavaScript
