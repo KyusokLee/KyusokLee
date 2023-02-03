@@ -1,7 +1,7 @@
 <div align="left">
   <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=realkyuman26"/>
 
-## Welcome to Kyulee's page 👋
+## Welcome to Kyulee's page👋
   - 📝 新しい知識の習得過程を記録する勉強日誌
   - 🕰 In Tokyo🇯🇵 from Seoul🇰🇷 
   - 🌱 iOS Develop(UIKit) 🚴‍♂️
