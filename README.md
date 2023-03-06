@@ -6,8 +6,8 @@
 ## Welcome to Kyulee's page👋
   - 📝 新しい知識の習得過程を記録する勉強日誌
   - 🕰 In Tokyo🇯🇵 from Seoul🇰🇷 
-  - 🌱 iOS Develop(UIKit) 🚴‍♂️
-  - 📚 Area of interests: SwiftUI, Flutter, JavaScript, Python
+  - 🌱 iOS Develop(mainly UIKit, recent SwiftUI) 🚴‍♂️
+  - 📚 Area of interests: SwiftUI, Combine, Flutter, Kotlin, JavaScript, Python
   - 🧗‍♂️ Focusing on developing currently 💻🌱
   <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyusoklee&layout=compact&theme=dracula&langs_count=8"/>
   <br>
