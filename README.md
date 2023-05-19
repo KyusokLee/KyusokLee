@@ -7,7 +7,7 @@
   - 📝 新しい知識の習得過程を記録する勉強日誌
   - 🕰 In Tokyo🇯🇵 from Seoul🇰🇷 
   - 🌱 iOS Develop(mainly UIKit, recently SwiftUI) 🚴‍♂️
-  - 📚 Area of interests: SwiftUI, Flutter, Kotlin, JavaScript, Python
+  - 📚 Area of interests: SwiftUI, Flutter, Kotlin, JavaScript
   - 🧗‍♂️ Focusing on developing currently 🌱
   <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyusoklee&layout=compact&theme=dracula&langs_count=8"/>
   <br>
