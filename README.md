@@ -8,7 +8,7 @@
   - 🕰 In Tokyo🇯🇵 from Seoul🇰🇷 
   - 🌱 iOS Develop(mainly UIKit, recently start SwiftUI) 🚴‍♂️
   - 📚 Area of interests: iOS(UIKit, SwiftUI), Kotlin, JavaScript, Python, Go
-  - 🧗‍♂️ Focusing on developing currently 🌱
+  - 🧗‍♂️ Focusing on developing 🌱
   <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kyusoklee&layout=compact&theme=dracula&langs_count=8"/>
   <br>
 </div>
