@@ -4,7 +4,7 @@
   [![Hits Badge](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKyusokLee&count_bg=%23F7CAC9&title_bg=%2392A8D1&icon=swift.svg&icon_color=%23F7CAC9&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
   
 ## Welcome to Kyulee's page👋
-  - 📝 新しい知識の習得過程を記録する勉強日誌 
+  - 📝 新しい知識の習得過程を記録する勉強日誌
   - 🕰 In Tokyo🇯🇵 from Seoul🇰🇷 
   - 🌱 iOS Develop(mainly UIKit, recently start SwiftUI) 🚴‍♂️
   - 📚 Area of interests: iOS(UIKit, SwiftUI), Kotlin, JavaScript, Python, Go
